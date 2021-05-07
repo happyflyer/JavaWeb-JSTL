@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bookmarks.xsl"?>
+<bookmarks>
+  <bookmark id="1">
+    <title encoding="UTF-8">java</title>
+    <url>http://java.sun.com</url>
+    <category>language</category>
+  </bookmark>
+  <bookmark id="2">
+    <title encoding="GBK">python</title>
+    <url>https://www.python.org</url>
+    <category>language</category>
+  </bookmark>
+</bookmarks>
